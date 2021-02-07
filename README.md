@@ -1,5 +1,5 @@
 # Qt Material Design Desktop Widgets [![Language](https://img.shields.io/badge/language-c++-brightgreen.svg)]() [![Join the chat at https://gitter.im/qt-material-widgets/Lobby](https://badges.gitter.im/qt-material-widgets/Lobby.svg)](https://gitter.im/qt-material-widgets/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+## Qt Material Design 简约风格桌面小部件
 YouTube video preview [available here](http://www.youtube.com/watch?v=21UMeNVBPU4).
 
 <table>
